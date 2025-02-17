@@ -73,7 +73,7 @@ To ensure the data is accurate and reliable for analysis, preprocessing is essen
 - Other departments, including Information Technology, Human Resources, and Finance, have nearly equal working hours.  
 - Sales has the least working hours per week.  
 
-![](Images/Screenshot%202025-02-15%20171606.png
+![](Images/Screenshot%202025-02-15%20171606.png)
 
 ### **Count of Employee ID by Department**
 - Marketing has the highest number of employees (**40 employees, 26.67%**).  
