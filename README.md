@@ -73,26 +73,38 @@ To ensure the data is accurate and reliable for analysis, preprocessing is essen
 - Other departments, including Information Technology, Human Resources, and Finance, have nearly equal working hours.  
 - Sales has the least working hours per week.  
 
+![](Images/Screenshot%202025-02-15%20171606.png
+
 ### **Count of Employee ID by Department**
 - Marketing has the highest number of employees (**40 employees, 26.67%**).  
 - Finance and Information Technology follow with **31 (20.67%)** and **27 (18%)** employees, respectively.  
-- Sales has the least number of employees (**23 employees, 15.33%**).  
+- Sales has the least number of employees (**23 employees, 15.33%**).
+
+    ![](Images/Screenshot%202025-02-15%20171633.png)
 
 ### **Count of Monthly Salary by Salary Range**
 - The majority of employees earn between **5K and 15K** per month.  
 - There is a significant variation in salary distribution, indicating different compensation structures across departments.  
+
+![](Images/Screenshot%202025-02-15%20171651.png)
 
 ### **Average Monthly Salary by Department**
 - **Human Resources** has the highest average salary (**$10,332.05**).  
 - **Finance** and **Marketing** have comparable average salaries (**$9,966.40** and **$9,655.42**, respectively).  
 - **Sales** has the lowest average salary (**$8,793.27**).  
 
+![](Images/Screenshot%202025-02-15%20171702.png)
+
 ### **Average Satisfaction Level by Age**
 - Employee satisfaction fluctuates across different age groups.  
-- Satisfaction tends to increase and decrease irregularly, indicating that **age alone may not determine job satisfaction**.  
+- Satisfaction tends to increase and decrease irregularly, indicating that **age alone may not determine job satisfaction**.
+
+![](Images/Screenshot%202025-02-15%20171751.png)
 
 ### **Total IT Projects by Department**
 - IT projects are distributed across multiple departments, with **Finance, Human Resources, and Marketing** having a significant share.  
+
+![](Images/Screenshot%202025-02-15%20171727.png)
 
 ---
 
