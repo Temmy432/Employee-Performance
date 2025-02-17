@@ -54,6 +54,7 @@ The dataset consists of **151 rows and 10 columns**. It contains employee inform
 - **Hours Per Week:** The number of hours the employee works in a week.  
 - **Satisfaction Level:** A numerical value indicating the employee's satisfaction with their job (**ranging from 0 to 1**).  
 
+![](Images/Screenshot%202025-02-15%20171818.png)
 ---
 
 ## DATA PREPROCESSING  
