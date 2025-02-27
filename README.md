@@ -54,7 +54,7 @@ The dataset consists of **151 rows and 10 columns**. It contains employee inform
 - **Hours Per Week:** The number of hours the employee works in a week.  
 - **Satisfaction Level:** A numerical value indicating the employee's satisfaction with their job (**ranging from 0 to 1**).  
 
-![](Images/Screenshot%202025-02-15%20171818.png)
+
 ---
 
 ## DATA PREPROCESSING  
@@ -140,7 +140,7 @@ To ensure the data is accurate and reliable for analysis, preprocessing is essen
 - Implement data-driven compensation decisions to reduce wage disparities and increase employee motivation.  
 
 ---
-
+![](Images/Screenshot%202025-02-15%20171818.png)
 ## CONCLUSION  
 - The **Employee Performance Analysis** for **OPTA.NG** highlights key areas that impact workforce productivity, compensation, and satisfaction levels.  
 - **Marketing** contributes the highest working hours, while **Human Resources** leads in salary averages despite having fewer employees.  
