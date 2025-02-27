@@ -14,7 +14,7 @@ This project leverages POWER BI to analyze employee performance metrics, aiming 
 ---
 
 ## INTRODUCTION
-- This report provides a data-driven analysis of employee productivity, efficiency, and overall contribution to the organization. It helps HR and management teams track performance trends, identify top performers, and address areas needing improvement. By leveraging **Power BI**, this report offers interactive dashboards that provide real-time insights into workforce performance. It also evaluates employee performance at **OPTA.NG** using key performance indicators (**KPIs**) such as average performance score, total projects, working hours, salaries, and employee satisfaction levels.  
+This report provides a data-driven analysis of employee productivity, efficiency, and overall contribution to the organization. It helps HR and management teams track performance trends, identify top performers, and address areas needing improvement. By leveraging **Power BI**, this report offers interactive dashboards that provide real-time insights into workforce performance. It also evaluates employee performance at **OPTA.NG** using key performance indicators (**KPIs**) such as average performance score, total projects, working hours, salaries, and employee satisfaction levels.  
 
 ---
 
